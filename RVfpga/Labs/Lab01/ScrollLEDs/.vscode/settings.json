@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bsp_mem_map.h": "c",
+        "psp_api.h": "c"
+    }
+}
